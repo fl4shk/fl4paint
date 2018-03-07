@@ -25,7 +25,6 @@ I've been able to use it so far.
 * The ability to support both 15-bit RGB and 24-bit RGB colors.  Usenti only
 appears to support 15-bit RGB because of its intended use case (GBA
 graphics).
-* The ability to support palettes with arbitrary numbers of colors
 * The ability to support sub-palettes of arbitrary sizes
 * The ability to have multiple tile grids at a time
 * The ability to use an arbitrary color index as the transparent color for
