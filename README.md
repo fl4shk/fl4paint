@@ -32,3 +32,5 @@ graphics).
 transparent PNG support.
 * Inherently cross platform.  fl4paint should work correctly on multiple
 OSes and computer architectures.
+* For paletted images, the ability to move colors around the palette with
+ease.
